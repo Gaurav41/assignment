@@ -8,7 +8,7 @@ class Functions {
 		System.out.println(a - b);
 	}
 
-	public static void main(String args) {
+	public static void main(String args[]) {
 
 	}
 
