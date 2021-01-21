@@ -6,11 +6,7 @@ class Functions {
 		System.out.println(c);
 	}
 
-	
-	public void multiply(int a, int b) {
-		System.out.println(a * b);
-	}
-	
+
 
 	public void subtract(int a, int b) {
 		int c=a-b;
@@ -18,7 +14,9 @@ class Functions {
 		System.out.println(c);
 	}
 
-	public static void main(String args[]) {
+
+	public static void main(String args) {
+
 
 	}
 
